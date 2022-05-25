@@ -5,19 +5,13 @@
 DragonCraft
 =======
 
-This is a Fork of MuktiMC.
-We have taken it upon ourselves to fix issues that the original devs are no longer able to.
-
-The Developers of MultiMC are not in anyway related, or in any way part of this fork, and as such should not be held accountable for any code changes made since this fork was created. We disvow any permission or implied blessing the Developers of the MultiMC project may or may not have given this fork.
-
 DragonCraft is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
 
-## Development
-If you want to contribute, talk to us on [Discord](https://discord.gg/multimc) first.
+## Disclaimer
 
-While blindly submitting PRs is definitely possible, they're not necessarily going to get accepted.
+This is a Fork of MuktiMC. We have taken it upon ourselves to fix issues that the original devs are no longer able to.
 
-We aren't looking for flashy features, but expanding upon the existing feature set without distruption or endangering future viability of the project is OK.
+The Developers of MultiMC are not in anyway related, or in any way, part of this fork, and as such should not be held accountable for any code changes made since this fork was created. We disavow any permission or implied blessing the Developers of the MultiMC project may or may not have given this fork.
 
 ### Building
 If you want to build the launcher yourself, check [BUILD.md](BUILD.md) for build instructions.
