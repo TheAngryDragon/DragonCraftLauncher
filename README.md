@@ -2,10 +2,15 @@
   
 </p>
 
-MultiMC
+DragonCraft
 =======
 
-MultiMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
+This is a Fork of MuktiMC.
+We have taken it upon ourselves to fix issues that the original devs are no longer able to.
+
+The Developers of MultiMC are not in anyway related, or in any way part of this fork, and as such should not be held accountable for any code changes made since this fork was created. We disvow any permission or implied blessing the Developers of the MultiMC project may or may not have given this fork.
+
+DragonCraft is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
 
 ## Development
 If you want to contribute, talk to us on [Discord](https://discord.gg/multimc) first.
@@ -27,11 +32,8 @@ In general, in order of importance:
 * Indent with 4 space unless it's in a submodule.
 * Keep lists (of arguments, parameters, initializers...) as lists, not paragraphs. It should either read from top to bottom, or left to right. Not both.
 
-## Translations
-Translations can be done [on crowdin](https://translate.multimc.org). Please avoid making direct pull requests to the translations repository.
-
 ## License
-Copyright &copy; 2013-2022 MultiMC Contributors
+Copyright &copy; 2022 DragonCraft Contributors
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this program except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
@@ -40,11 +42,11 @@ Unless required by applicable law or agreed to in writing, software distributed 
 ## Forking/Redistributing/Custom builds policy
 We keep Launcher open source because we think it's important to be able to see the source code for a project like this, and we do so using the Apache license.
 
-The license gives you access to the source MultiMC is build from, but:
+The license gives you access to the source DragonCraft is build from, but:
 - Not the name, logo and other branding.
 - Not the API tokens required to talk to services the launcher depends on.
 
-Because of the nature of the agreements required to interact with the Microsoft identity platform, it's impossible for us to continue allowing everyone to build the code as 'MultiMC'. The source code has been debranded and now builds as `DevLauncher` by default.
+Because of the nature of the agreements required to interact with the Microsoft identity platform, it's impossible for us to continue allowing everyone to build the code as 'DragonCraft'. The source code has been debranded and now builds as `DevLauncher` by default.
 
 You must provide your own branding if you want to distribute your own builds.
 
